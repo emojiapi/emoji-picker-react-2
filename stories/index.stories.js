@@ -4,7 +4,7 @@ import { storiesOf } from '@storybook/react';
 import EmojiPicker from '../src';
 
 const CDN_URL =
-  'https://cdn.jsdelivr.net/npm/emoji-datasource-apple@6.0.1/img/apple/64';
+  'https://cdn.jsdelivr.net/npm/emoji-datasource-apple@7.0.2/img/apple/64';
 
 // eslint-disable-next-line
 const log = console.log;
