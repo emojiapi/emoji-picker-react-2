@@ -41,7 +41,7 @@ module.exports = {
     new MiniCssExtractPlugin(),
     new webpack.DefinePlugin({
       DEFAULT_EMOJI_URL: JSON.stringify(
-        'https://cdn.jsdelivr.net/npm/emoji-datasource-apple@7.0.2/img/apple/64'
+        'https://emojiapi.github.io/emojipicker/v1fd32'
       ),
     }),
   ],

@@ -26,6 +26,7 @@
     { "n": ["face with tears of joy", "joy"], "u": "1f602" },
     { "n": ["slightly smiling face", "slightly_smiling_face"], "u": "1f642" },
     { "n": ["upside-down face", "upside_down_face"], "u": "1f643" },
+    { "n": ["melting face", "melting_face"], "u": "1fae0" },
     { "n": ["winking face", "wink"], "u": "1f609" },
     { "n": ["smiling face with smiling eyes", "blush"], "u": "1f60a" },
     { "n": ["smiling face with halo", "innocent"], "u": "1f607" },
@@ -96,6 +97,14 @@
     },
     {
       "n": [
+        "face with open eyes and hand over mouth",
+        "face_with_open_eyes_and_hand_over_mouth"
+      ],
+      "u": "1fae2"
+    },
+    { "n": ["face with peeking eye", "face_with_peeking_eye"], "u": "1fae3" },
+    {
+      "n": [
         "face with finger covering closed lips",
         "shushing_face",
         "face_with_finger_covering_closed_lips"
@@ -103,6 +112,7 @@
       "u": "1f92b"
     },
     { "n": ["thinking face", "thinking_face"], "u": "1f914" },
+    { "n": ["saluting face", "saluting_face"], "u": "1fae1" },
     { "n": ["zipper-mouth face", "zipper_mouth_face"], "u": "1f910" },
     {
       "n": [
@@ -115,6 +125,7 @@
     { "n": ["neutral face", "neutral_face"], "u": "1f610" },
     { "n": ["expressionless face", "expressionless"], "u": "1f611" },
     { "n": ["face without mouth", "no_mouth"], "u": "1f636" },
+    { "n": ["dotted line face", "dotted_line_face"], "u": "1fae5" },
     { "n": ["face in clouds", "face_in_clouds"], "u": "1f636-200d-1f32b-fe0f" },
     { "n": ["smirking face", "smirk"], "u": "1f60f" },
     { "n": ["unamused face", "unamused"], "u": "1f612" },
@@ -169,6 +180,10 @@
     { "n": ["nerd face", "nerd_face"], "u": "1f913" },
     { "n": ["face with monocle", "face_with_monocle"], "u": "1f9d0" },
     { "n": ["confused face", "confused"], "u": "1f615" },
+    {
+      "n": ["face with diagonal mouth", "face_with_diagonal_mouth"],
+      "u": "1fae4"
+    },
     { "n": ["worried face", "worried"], "u": "1f61f" },
     { "n": ["slightly frowning face", "slightly_frowning_face"], "u": "1f641" },
     { "n": ["frowning face", "white_frowning_face"], "u": "2639-fe0f" },
@@ -177,6 +192,10 @@
     { "n": ["astonished face", "astonished"], "u": "1f632" },
     { "n": ["flushed face", "flushed"], "u": "1f633" },
     { "n": ["face with pleading eyes", "pleading_face"], "u": "1f97a" },
+    {
+      "n": ["face holding back tears", "face_holding_back_tears"],
+      "u": "1f979"
+    },
     { "n": ["frowning face with open mouth", "frowning"], "u": "1f626" },
     { "n": ["anguished face", "anguished"], "u": "1f627" },
     { "n": ["fearful face", "fearful"], "u": "1f628" },
@@ -338,6 +357,50 @@
       ]
     },
     {
+      "n": ["rightwards hand", "rightwards_hand"],
+      "u": "1faf1",
+      "v": [
+        "1faf1-1f3fb",
+        "1faf1-1f3fc",
+        "1faf1-1f3fd",
+        "1faf1-1f3fe",
+        "1faf1-1f3ff"
+      ]
+    },
+    {
+      "n": ["leftwards hand", "leftwards_hand"],
+      "u": "1faf2",
+      "v": [
+        "1faf2-1f3fb",
+        "1faf2-1f3fc",
+        "1faf2-1f3fd",
+        "1faf2-1f3fe",
+        "1faf2-1f3ff"
+      ]
+    },
+    {
+      "n": ["palm down hand", "palm_down_hand"],
+      "u": "1faf3",
+      "v": [
+        "1faf3-1f3fb",
+        "1faf3-1f3fc",
+        "1faf3-1f3fd",
+        "1faf3-1f3fe",
+        "1faf3-1f3ff"
+      ]
+    },
+    {
+      "n": ["palm up hand", "palm_up_hand"],
+      "u": "1faf4",
+      "v": [
+        "1faf4-1f3fb",
+        "1faf4-1f3fc",
+        "1faf4-1f3fd",
+        "1faf4-1f3fe",
+        "1faf4-1f3ff"
+      ]
+    },
+    {
       "n": ["ok hand sign", "ok_hand"],
       "u": "1f44c",
       "v": [
@@ -394,6 +457,20 @@
         "1f91e-1f3fd",
         "1f91e-1f3fe",
         "1f91e-1f3ff"
+      ]
+    },
+    {
+      "n": [
+        "hand with index finger and thumb crossed",
+        "hand_with_index_finger_and_thumb_crossed"
+      ],
+      "u": "1faf0",
+      "v": [
+        "1faf0-1f3fb",
+        "1faf0-1f3fc",
+        "1faf0-1f3fd",
+        "1faf0-1f3fe",
+        "1faf0-1f3ff"
       ]
     },
     {
@@ -500,6 +577,17 @@
       ]
     },
     {
+      "n": ["index pointing at the viewer", "index_pointing_at_the_viewer"],
+      "u": "1faf5",
+      "v": [
+        "1faf5-1f3fb",
+        "1faf5-1f3fc",
+        "1faf5-1f3fd",
+        "1faf5-1f3fe",
+        "1faf5-1f3ff"
+      ]
+    },
+    {
       "n": ["thumbs up sign", "+1", "thumbsup"],
       "u": "1f44d",
       "v": [
@@ -588,6 +676,17 @@
       ]
     },
     {
+      "n": ["heart hands", "heart_hands"],
+      "u": "1faf6",
+      "v": [
+        "1faf6-1f3fb",
+        "1faf6-1f3fc",
+        "1faf6-1f3fd",
+        "1faf6-1f3fe",
+        "1faf6-1f3ff"
+      ]
+    },
+    {
       "n": ["open hands sign", "open_hands"],
       "u": "1f450",
       "v": [
@@ -609,7 +708,37 @@
         "1f932-1f3ff"
       ]
     },
-    { "n": ["handshake"], "u": "1f91d" },
+    {
+      "n": ["handshake"],
+      "u": "1f91d",
+      "v": [
+        "1f91d-1f3fb",
+        "1f91d-1f3fc",
+        "1f91d-1f3fd",
+        "1f91d-1f3fe",
+        "1f91d-1f3ff",
+        "1faf1-1f3fb-200d-1faf2-1f3fc",
+        "1faf1-1f3fb-200d-1faf2-1f3fd",
+        "1faf1-1f3fb-200d-1faf2-1f3fe",
+        "1faf1-1f3fb-200d-1faf2-1f3ff",
+        "1faf1-1f3fc-200d-1faf2-1f3fb",
+        "1faf1-1f3fc-200d-1faf2-1f3fd",
+        "1faf1-1f3fc-200d-1faf2-1f3fe",
+        "1faf1-1f3fc-200d-1faf2-1f3ff",
+        "1faf1-1f3fd-200d-1faf2-1f3fb",
+        "1faf1-1f3fd-200d-1faf2-1f3fc",
+        "1faf1-1f3fd-200d-1faf2-1f3fe",
+        "1faf1-1f3fd-200d-1faf2-1f3ff",
+        "1faf1-1f3fe-200d-1faf2-1f3fb",
+        "1faf1-1f3fe-200d-1faf2-1f3fc",
+        "1faf1-1f3fe-200d-1faf2-1f3fd",
+        "1faf1-1f3fe-200d-1faf2-1f3ff",
+        "1faf1-1f3ff-200d-1faf2-1f3fb",
+        "1faf1-1f3ff-200d-1faf2-1f3fc",
+        "1faf1-1f3ff-200d-1faf2-1f3fd",
+        "1faf1-1f3ff-200d-1faf2-1f3fe"
+      ]
+    },
     {
       "n": ["person with folded hands", "pray"],
       "u": "1f64f",
@@ -731,6 +860,7 @@
     { "n": ["eye"], "u": "1f441-fe0f" },
     { "n": ["tongue"], "u": "1f445" },
     { "n": ["mouth", "lips"], "u": "1f444" },
+    { "n": ["biting lip", "biting_lip"], "u": "1fae6" },
     {
       "n": ["baby"],
       "u": "1f476",
@@ -2041,6 +2171,17 @@
       ]
     },
     {
+      "n": ["person with crown", "person_with_crown"],
+      "u": "1fac5",
+      "v": [
+        "1fac5-1f3fb",
+        "1fac5-1f3fc",
+        "1fac5-1f3fd",
+        "1fac5-1f3fe",
+        "1fac5-1f3ff"
+      ]
+    },
+    {
       "n": ["prince"],
       "u": "1f934",
       "v": [
@@ -2192,6 +2333,28 @@
         "1f930-1f3fd",
         "1f930-1f3fe",
         "1f930-1f3ff"
+      ]
+    },
+    {
+      "n": ["pregnant man", "pregnant_man"],
+      "u": "1fac3",
+      "v": [
+        "1fac3-1f3fb",
+        "1fac3-1f3fc",
+        "1fac3-1f3fd",
+        "1fac3-1f3fe",
+        "1fac3-1f3ff"
+      ]
+    },
+    {
+      "n": ["pregnant person", "pregnant_person"],
+      "u": "1fac4",
+      "v": [
+        "1fac4-1f3fb",
+        "1fac4-1f3fc",
+        "1fac4-1f3fd",
+        "1fac4-1f3fe",
+        "1fac4-1f3ff"
       ]
     },
     {
@@ -2519,6 +2682,7 @@
     { "n": ["zombie"], "u": "1f9df" },
     { "n": ["man zombie", "male_zombie"], "u": "1f9df-200d-2642-fe0f" },
     { "n": ["woman zombie", "female_zombie"], "u": "1f9df-200d-2640-fe0f" },
+    { "n": ["troll"], "u": "1f9cc" },
     {
       "n": ["face massage", "massage"],
       "u": "1f486",
@@ -3998,6 +4162,7 @@
     { "n": ["shark"], "u": "1f988" },
     { "n": ["octopus"], "u": "1f419" },
     { "n": ["spiral shell", "shell"], "u": "1f41a" },
+    { "n": ["coral"], "u": "1fab8" },
     { "n": ["snail"], "u": "1f40c" },
     { "n": ["butterfly"], "u": "1f98b" },
     { "n": ["bug"], "u": "1f41b" },
@@ -4017,6 +4182,7 @@
     { "n": ["bouquet"], "u": "1f490" },
     { "n": ["cherry blossom", "cherry_blossom"], "u": "1f338" },
     { "n": ["white flower", "white_flower"], "u": "1f4ae" },
+    { "n": ["lotus"], "u": "1fab7" },
     { "n": ["rosette"], "u": "1f3f5-fe0f" },
     { "n": ["rose"], "u": "1f339" },
     { "n": ["wilted flower", "wilted_flower"], "u": "1f940" },
@@ -4036,7 +4202,9 @@
     { "n": ["four leaf clover", "four_leaf_clover"], "u": "1f340" },
     { "n": ["maple leaf", "maple_leaf"], "u": "1f341" },
     { "n": ["fallen leaf", "fallen_leaf"], "u": "1f342" },
-    { "n": ["leaf fluttering in wind", "leaves"], "u": "1f343" }
+    { "n": ["leaf fluttering in wind", "leaves"], "u": "1f343" },
+    { "n": ["empty nest", "empty_nest"], "u": "1fab9" },
+    { "n": ["nest with eggs", "nest_with_eggs"], "u": "1faba" }
   ],
   "food_drink": [
     { "n": ["grapes"], "u": "1f347" },
@@ -4072,6 +4240,7 @@
     { "n": ["onion"], "u": "1f9c5" },
     { "n": ["mushroom"], "u": "1f344" },
     { "n": ["peanuts"], "u": "1f95c" },
+    { "n": ["beans"], "u": "1fad8" },
     { "n": ["chestnut"], "u": "1f330" },
     { "n": ["bread"], "u": "1f35e" },
     { "n": ["croissant"], "u": "1f950" },
@@ -4157,6 +4326,7 @@
     { "n": ["clinking beer mugs", "beers"], "u": "1f37b" },
     { "n": ["clinking glasses", "clinking_glasses"], "u": "1f942" },
     { "n": ["tumbler glass", "tumbler_glass"], "u": "1f943" },
+    { "n": ["pouring liquid", "pouring_liquid"], "u": "1fad7" },
     { "n": ["cup with straw", "cup_with_straw"], "u": "1f964" },
     { "n": ["bubble tea", "bubble_tea"], "u": "1f9cb" },
     { "n": ["beverage box", "beverage_box"], "u": "1f9c3" },
@@ -4170,6 +4340,7 @@
     { "n": ["fork and knife", "fork_and_knife"], "u": "1f374" },
     { "n": ["spoon"], "u": "1f944" },
     { "n": ["hocho", "knife"], "u": "1f52a" },
+    { "n": ["jar"], "u": "1fad9" },
     { "n": ["amphora"], "u": "1f3fa" }
   ],
   "travel_places": [
@@ -4240,6 +4411,7 @@
     { "n": ["bridge at night", "bridge_at_night"], "u": "1f309" },
     { "n": ["hot springs", "hotsprings"], "u": "2668-fe0f" },
     { "n": ["carousel horse", "carousel_horse"], "u": "1f3a0" },
+    { "n": ["playground slide", "playground_slide"], "u": "1f6dd" },
     { "n": ["ferris wheel", "ferris_wheel"], "u": "1f3a1" },
     { "n": ["roller coaster", "roller_coaster"], "u": "1f3a2" },
     { "n": ["barber pole", "barber"], "u": "1f488" },
@@ -4291,12 +4463,14 @@
     { "n": ["railway track", "railway_track"], "u": "1f6e4-fe0f" },
     { "n": ["oil drum", "oil_drum"], "u": "1f6e2-fe0f" },
     { "n": ["fuel pump", "fuelpump"], "u": "26fd" },
+    { "n": ["wheel"], "u": "1f6de" },
     { "n": ["police cars revolving light", "rotating_light"], "u": "1f6a8" },
     { "n": ["horizontal traffic light", "traffic_light"], "u": "1f6a5" },
     { "n": ["vertical traffic light", "vertical_traffic_light"], "u": "1f6a6" },
     { "n": ["octagonal sign", "octagonal_sign"], "u": "1f6d1" },
     { "n": ["construction sign", "construction"], "u": "1f6a7" },
     { "n": ["anchor"], "u": "2693" },
+    { "n": ["ring buoy", "ring_buoy"], "u": "1f6df" },
     { "n": ["sailboat", "boat"], "u": "26f5" },
     { "n": ["canoe"], "u": "1f6f6" },
     { "n": ["speedboat"], "u": "1f6a4" },
@@ -4521,6 +4695,7 @@
     { "n": ["crystal ball", "crystal_ball"], "u": "1f52e" },
     { "n": ["magic wand", "magic_wand"], "u": "1fa84" },
     { "n": ["nazar amulet", "nazar_amulet"], "u": "1f9ff" },
+    { "n": ["hamsa"], "u": "1faac" },
     { "n": ["video game", "video_game"], "u": "1f3ae" },
     { "n": ["joystick"], "u": "1f579-fe0f" },
     { "n": ["slot machine", "slot_machine"], "u": "1f3b0" },
@@ -4528,6 +4703,7 @@
     { "n": ["jigsaw puzzle piece", "jigsaw"], "u": "1f9e9" },
     { "n": ["teddy bear", "teddy_bear"], "u": "1f9f8" },
     { "n": ["pinata"], "u": "1fa85" },
+    { "n": ["mirror ball", "mirror_ball"], "u": "1faa9" },
     { "n": ["nesting dolls", "nesting_dolls"], "u": "1fa86" },
     { "n": ["black spade suit", "spades"], "u": "2660-fe0f" },
     { "n": ["black heart suit", "hearts"], "u": "2665-fe0f" },
@@ -4631,6 +4807,7 @@
     { "n": ["pager"], "u": "1f4df" },
     { "n": ["fax machine", "fax"], "u": "1f4e0" },
     { "n": ["battery"], "u": "1f50b" },
+    { "n": ["low battery", "low_battery"], "u": "1faab" },
     { "n": ["electric plug", "electric_plug"], "u": "1f50c" },
     { "n": ["personal computer", "computer"], "u": "1f4bb" },
     { "n": ["desktop computer", "desktop_computer"], "u": "1f5a5-fe0f" },
@@ -4795,7 +4972,9 @@
     { "n": ["drop of blood", "drop_of_blood"], "u": "1fa78" },
     { "n": ["pill"], "u": "1f48a" },
     { "n": ["adhesive bandage", "adhesive_bandage"], "u": "1fa79" },
+    { "n": ["crutch"], "u": "1fa7c" },
     { "n": ["stethoscope"], "u": "1fa7a" },
+    { "n": ["x-ray"], "u": "1fa7b" },
     { "n": ["door"], "u": "1f6aa" },
     { "n": ["elevator"], "u": "1f6d7" },
     { "n": ["mirror"], "u": "1fa9e" },
@@ -4816,6 +4995,7 @@
     { "n": ["roll of paper", "roll_of_paper"], "u": "1f9fb" },
     { "n": ["bucket"], "u": "1faa3" },
     { "n": ["bar of soap", "soap"], "u": "1f9fc" },
+    { "n": ["bubbles"], "u": "1fae7" },
     { "n": ["toothbrush"], "u": "1faa5" },
     { "n": ["sponge"], "u": "1f9fd" },
     { "n": ["fire extinguisher", "fire_extinguisher"], "u": "1f9ef" },
@@ -4826,6 +5006,7 @@
     { "n": ["funeral urn", "funeral_urn"], "u": "26b1-fe0f" },
     { "n": ["moyai"], "u": "1f5ff" },
     { "n": ["placard"], "u": "1faa7" },
+    { "n": ["identification card", "identification_card"], "u": "1faaa" },
     {
       "n": ["emoji modifier fitzpatrick type-1-2", "skin-tone-2"],
       "u": "1f3fb"
@@ -5032,6 +5213,7 @@
     { "n": ["heavy plus sign", "heavy_plus_sign"], "u": "2795" },
     { "n": ["heavy minus sign", "heavy_minus_sign"], "u": "2796" },
     { "n": ["heavy division sign", "heavy_division_sign"], "u": "2797" },
+    { "n": ["heavy equals sign", "heavy_equals_sign"], "u": "1f7f0" },
     { "n": ["infinity"], "u": "267e-fe0f" },
     { "n": ["double exclamation mark", "bangbang"], "u": "203c-fe0f" },
     { "n": ["exclamation question mark", "interrobang"], "u": "2049-fe0f" },
